@@ -17,7 +17,7 @@
     {
       "title": "Social Media",
       "description": "YouTube thumbnails, image posts, Facebook page headers.",
-      "pricing": "$5 per image"
+      "pricing": "$2-5 per image"
     },
     {
       "title": "Logo Design",
@@ -30,8 +30,9 @@
       "pricing": "$25 per page"
     },
     {
-      "title": "Coding",
-      "description": "I am fluent in JavaScript (frontend and backend Node), and some Python."
+      "title": "Custom Coding",
+      "description": "I am fluent in JavaScript (frontend and backend Node), and some Python.",
+      "fiverr": false
     }
   ]
 }
