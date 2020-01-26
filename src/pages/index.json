@@ -16,13 +16,13 @@
   "gigs": [
     {
       "title": "Social Media",
-      "description": "YouTube custom thumbnails, image posts on Instagram, Facebook or Twitter.",
-      "pricing": "$2 per image"
+      "description": "YouTube thumbnails, image posts, Facebook page headers.",
+      "pricing": "$5 per image"
     },
     {
       "title": "Logo Design",
-      "description": "Company logos, or social media channel logos.",
-      "pricing": "$5 per logo"
+      "description": "Company logos, social media channel logos or profile images.",
+      "pricing": "$10 per logo"
     },
     {
       "title": "Web Design",
