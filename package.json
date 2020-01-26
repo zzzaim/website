@@ -12,7 +12,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "scripts/deploy.sh"
   },
   "dependencies": {
     "@mdi/js": "^4.8.95",
@@ -42,5 +43,8 @@
   },
   "bugs": {
     "url": "https://github.com/zzzaim/website/issues"
+  },
+  "config": {
+    "deploy": "git@github.com:zzzaim/zzzaim.github.io.git"
   }
 }
