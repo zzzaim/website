@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react"
+import { Columns, Column, withHelpersModifiers } from "bloomer"
 
-export default props => (
-  <div className="columns is-centered">
-    <div className={`column is-${props.size}`}>
-      { props.children }
-    </div>
-  </div>
+const CenterDiv = props => (
+  <Columns isCentered>
+    <Column {...props}>{props.children}</Column>
+  </Columns>
 )
+
+export default withHelpersModifiers(CenterDiv)
