@@ -5,5 +5,18 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: 'zzzaim freelancer website',
+  },
+  plugins: [
+    'gatsby-plugin-sass',
+    'gatsby-plugin-svgr-svgo',
+    {
+      resolve: 'gatsby-plugin-google-fonts',
+      options: {
+        fonts: ['Nunito'],
+        display: 'swap',
+      },
+    },
+  ],
 }
