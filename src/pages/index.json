@@ -1,0 +1,37 @@
+{
+  "socials": [
+    {
+      "site": "twitter",
+      "handle": "zzzaim"
+    },
+    {
+      "site": "github",
+      "handle": "zzzaim"
+    },
+    {
+      "site": "medium",
+      "handle": "zzzaim"
+    }
+  ],
+  "gigs": [
+    {
+      "title": "Social Media",
+      "description": "YouTube custom thumbnails, image posts on Instagram, Facebook or Twitter.",
+      "pricing": "$2 per image"
+    },
+    {
+      "title": "Logo Design",
+      "description": "Company logos, or social media channel logos.",
+      "pricing": "$5 per logo"
+    },
+    {
+      "title": "Web Design",
+      "description": "Single page web apps, landing pages, multi-page static sites.",
+      "pricing": "$25 per page"
+    },
+    {
+      "title": "Coding",
+      "description": "I am fluent in JavaScript (frontend and backend Node), and some Python."
+    }
+  ]
+}
